@@ -1,4 +1,4 @@
-﻿<h1 align="left">Привет, я Александр 👋</h1>
+<h1 align="left">Привет, я Александр 👋</h1>
 
 <p align="left">
   <a href="https://t.me/xoxby"><img src="https://img.shields.io/badge/Telegram-@xoxby-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>

@@ -26,13 +26,14 @@
 
 ### 📌 Текущий проект
 
-[![TopPython54 Repo](https://github-readme-stats.vercel.app/api/pin/?username=xoxby&repo=TopPython54&theme=prussian&hide_border=true&title_color=2ca5e0)](https://github.com/xoxby/TopPython54)
+[![TopPython54 Repo](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xoxby&repo=TopPython54&theme=prussian&hide_border=true&title_color=2ca5e0)](https://github.com/xoxby/TopPython54)
 
 ### 📈 Статистика GitHub
 
-[![Статистика](https://github-readme-stats.vercel.app/api?username=xoxby&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&locale=ru)](https://github.com/xoxby)
-[![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxby&layout=compact&theme=prussian&hide_border=true&locale=ru)](https://github.com/xoxby)
+[![Статистика](https://github-readme-stats-eight-theta.vercel.app/api?username=xoxby&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&locale=ru)](https://github.com/xoxby)
+[![Языки](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoxby&layout=compact&theme=prussian&hide_border=true&locale=ru)](https://github.com/xoxby)
 
 <br>
 
 ![Просмотры](https://komarev.com/ghpvc/?username=xoxby&label=VIEWS&color=4c1d95&style=flat-square)
+

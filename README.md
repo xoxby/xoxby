@@ -1,33 +1,45 @@
-# Привет! Я Александр 👋
+﻿# Hello, I'm Александр 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+to+Code;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
-## 🚀 Обо мне
-- 🐍 Активно изучаю программирование на **Python**.
-- 🎓 Решаю сложные задачи и автоматизирую рутину в рамках курса **TopPython54**.
-- 🎯 Цель: стать крутым Python-разработчиком.
-
-## 🛠 Мой стек
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <a href="https://t.me/xoxby"><img src="https://img.shields.io/badge/Telegram-@xoxby-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/xoxby"><img src="https://img.shields.io/badge/GitHub-@xoxby-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:xoxby@mail.ru"><img src="https://img.shields.io/badge/Email-xoxby@mail.ru-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 📊 Моя статистика GitHub
+**I ❤️ Python Development!**
+
+💻 **A passionate developer** enthusiastic about creating clean and efficient code.<br>
+🔥 **Problem Solver:** Actively solving algorithmic challenges and automating workflows.<br>
+🌱 **Currently learning:** Exploring back-end architecture, databases, and advanced Python features.<br>
+🎯 **Goal:** Bring ideas to life and become a Senior Software Engineer.
+
+### 🛠 Технологии и инструменты
+
 <p align="left">
-  <a href="https://github.com/xoxby">
-    <img src="https://github-readme-stats.vercel.app/api?username=xoxby&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Статистика xoxby" height="192px"/>
-  </a>
-  <a href="https://github.com/xoxby">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxby&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Топ языков" height="192px"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### 📌 Currently working on
+
+<p align="left">
+  <a href="https://github.com/xoxby/TopPython54">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxby&repo=TopPython54&theme=prussian&hide_border=true" alt="TopPython54 Repo">
   </a>
 </p>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xoxby&color=blue&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Просмотры профиля" />
-</div>
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xoxby&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxby&layout=compact&theme=prussian&hide_border=true" alt="Топ языков" />
+</p>
+
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xoxby&label=Profile%20views&color=4c1d95&style=flat-square" alt="Views">
+</p>
